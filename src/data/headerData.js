@@ -4,7 +4,7 @@ export const headerData = {
     name: 'Austin Do',
     fullName: 'Truong Giang Do (Austin)',
     title: "Full Stack Developer",
-    desciption:"There wasn't a bird in the sky, but that was not what caught her attention. It was the clouds. The deep green that isn't the color of clouds, but came with these. She knew what was coming and she hoped she was prepared. ",
-    image: 'https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/landingImg.png',
+    desciption:"I'm a dedicated software developer who is passionate about learning new technologies and programming languages. I thrive in both collaborative and independent settings, always aiming to bring strong communication skills and attention to detail to my work. ",
+    image: 'https://raw.githubusercontent.com/giangdo888/portfolio/refs/heads/master/src/assets/png/IMG_9936%20Spare.JPG',
     resumePdf: resume
 }
