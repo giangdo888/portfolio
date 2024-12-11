@@ -24,13 +24,20 @@
 .skillsContainer {
     display: flex;
     align-items: center;
-    justify-content: center; 
+    justify-content: center;
+    align-items: center;
     width: 100%;
     margin-top: 3.5rem;
     padding: 0 2rem;
+    flex-wrap: wrap;
 }
 
+
 .skill--scroll {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
     width: 100%;
     margin: 0 2rem;
 }
@@ -70,7 +77,6 @@
     text-align: center;
     margin-top: 1rem;
 }
-
 
 .marquee {
     padding: 3rem 0;
