@@ -14,6 +14,7 @@ export const projectsData = [
         projectName: 'To Do List',
         projectDesc: 'Develop a user-friendly to-do app interface for efficient daily task management.',
         tags: ['React', 'CSS', 'JavaScript'],
+        code: '',
         demo: 'https://github.com/giangdo888/toDoListReact',
         image: one
     },
@@ -22,6 +23,7 @@ export const projectsData = [
         projectName: 'Quizz App',
         projectDesc: 'Develop a full-stack application that enables users to manage quiz questions and engage in quiz participation.',
         tags: ['ASP.NET', 'JavaScript', 'PostgresSQL'],
+        code: '',
         demo: 'https://github.com/giangdo888/QuizApp',
         image: two
     },
