@@ -1,40 +1,37 @@
 import one from '../assets/svg/projects/one.svg'
 import two from '../assets/svg/projects/two.svg'
-import three from '../assets/svg/projects/three.svg'
-import four from '../assets/svg/projects/four.svg'
-import five from '../assets/svg/projects/five.svg'
-import six from '../assets/svg/projects/six.svg'
-import seven from '../assets/svg/projects/seven.svg'
-import eight from '../assets/svg/projects/eight.svg'
+import quizApp from '../assets/png/quizapp.png'
+import fizzBuzz from '../assets/png/fizzbuzz.png'
+import toDoList from '../assets/png/todolist.png'
 
 
 export const projectsData = [
     {
         id: 1,
-        projectName: 'To Do List',
-        projectDesc: 'Develop a user-friendly to-do app interface for efficient daily task management.',
-        tags: ['React', 'CSS', 'JavaScript'],
-        code: '',
-        demo: 'https://github.com/giangdo888/toDoListReact',
-        image: one
+        projectName: 'FizzBuzz Game',
+        projectDesc: 'VIsualize the classic FizzBuzz game with a user-friendly interface and all the logic on the server-side only',
+        tags: ['ASP.NET', 'React', 'TypeScript', 'PostgreSQL'],
+        code: 'https://github.com/giangdo888/FizzBuzzGame',
+        demo: '',
+        image: fizzBuzz
     },
     {
         id: 2,
         projectName: 'Quizz App',
         projectDesc: 'Develop a full-stack application that enables users to manage quiz questions and engage in quiz participation.',
-        tags: ['ASP.NET', 'JavaScript', 'PostgresSQL'],
-        code: '',
-        demo: 'https://github.com/giangdo888/QuizApp',
-        image: two
+        tags: ['ASP.NET', 'JavaScript', 'PostgreSQL'],
+        code: 'https://github.com/giangdo888/QuizApp',
+        demo: '',
+        image: quizApp
     },
     {
         id: 3,
-        projectName: 'Weather App',
-        projectDesc: '',
-        tags: ['Flutter', 'React'],
-        code: '',
+        projectName: 'To Do List',
+        projectDesc: 'Develop a user-friendly to-do app interface for efficient daily task management.',
+        tags: ['React', 'CSS', 'JavaScript'],
+        code: 'https://github.com/giangdo888/toDoListReact',
         demo: '',
-        image: ''
+        image: toDoList
     },
     {
         id: 4,

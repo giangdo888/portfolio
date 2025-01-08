@@ -5,6 +5,7 @@
     'Qt',
     'PostgreSQL',
     'Docker',
+    'TypeScript',
     'React',
     'HTML',
     'CSS',
