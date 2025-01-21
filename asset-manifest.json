@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.52f01000.css",
-    "main.js": "/portfolio/static/js/main.12446dc4.js",
+    "main.js": "/portfolio/static/js/main.3ae566b4.js",
     "static/js/453.1cc257ae.chunk.js": "/portfolio/static/js/453.1cc257ae.chunk.js",
     "static/media/placeholder.png": "/portfolio/static/media/placeholder.3fcbbdcd05f3e458d129.png",
     "static/media/expOrange.svg": "/portfolio/static/media/expOrange.9383b2df918bf4e0ce67e3f289602562.svg",
@@ -14,6 +14,7 @@
     "static/media/expYellow.svg": "/portfolio/static/media/expYellow.22be417c6d1c281c3b4b6ee0e80f0a5f.svg",
     "static/media/fizzbuzz.png": "/portfolio/static/media/fizzbuzz.e803078d419857370dce.png",
     "static/media/quizapp.png": "/portfolio/static/media/quizapp.9e18ad2481c9d78f347c.png",
+    "static/media/todolist.png": "/portfolio/static/media/todolist.0101c1a39661b3338ef3.png",
     "static/media/resume.pdf": "/portfolio/static/media/resume.12395b10be6b1650e25c.pdf",
     "static/media/two.svg": "/portfolio/static/media/two.721a06723367c73fc2cee44b09f50c67.svg",
     "static/media/BestermindRegular.ttf": "/portfolio/static/media/BestermindRegular.e58a192233afb30a6a59.ttf",
@@ -27,7 +28,6 @@
     "static/media/contactsPurple.svg": "/portfolio/static/media/contactsPurple.e812446bf12a444a13b031404e3c7e84.svg",
     "static/media/contactsRed.svg": "/portfolio/static/media/contactsRed.4953be02a00972428941a6d32e9060e7.svg",
     "static/media/contactsYellow.svg": "/portfolio/static/media/contactsYellow.85ae60233c8d2cd5f19b157ebeeaa83b.svg",
-    "static/media/todolist.png": "/portfolio/static/media/todolist.a58d77adea5793b31735.png",
     "static/media/pinkTheme-girl.svg": "/portfolio/static/media/pinkTheme-girl.50c0c02f742987d657bca43e65de5ee0.svg",
     "static/media/purpleTheme-girl.svg": "/portfolio/static/media/purpleTheme-girl.56852c94d9d4c3b332756c31029200e1.svg",
     "static/media/yellowTheme-girl.svg": "/portfolio/static/media/yellowTheme-girl.641f7b0b3d73b02df6c112988684e84b.svg",
@@ -143,11 +143,11 @@
     "static/media/vuetifyjs.svg": "/portfolio/static/media/vuetifyjs.8a22a3ec81ad62e97094feab6e7ee0fb.svg",
     "static/media/bulma.svg": "/portfolio/static/media/bulma.5910d4416e077262d0264109649ab214.svg",
     "main.52f01000.css.map": "/portfolio/static/css/main.52f01000.css.map",
-    "main.12446dc4.js.map": "/portfolio/static/js/main.12446dc4.js.map",
+    "main.3ae566b4.js.map": "/portfolio/static/js/main.3ae566b4.js.map",
     "453.1cc257ae.chunk.js.map": "/portfolio/static/js/453.1cc257ae.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.52f01000.css",
-    "static/js/main.12446dc4.js"
+    "static/js/main.3ae566b4.js"
   ]
 }
