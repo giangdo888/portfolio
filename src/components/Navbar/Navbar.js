@@ -2,7 +2,7 @@ import React, { useContext, useState } from 'react';
 import { NavHashLink as NavLink } from 'react-router-hash-link';
 import Fade from 'react-reveal/Fade';
 import { IoMenuSharp, IoHomeSharp } from 'react-icons/io5';
-import { HiDocumentText } from 'react-icons/hi';
+import { HiDocumentText, HiBriefcase, HiAcademicCap, HiClipboardCheck } from 'react-icons/hi';
 import { BsFillGearFill } from 'react-icons/bs';
 import { MdPhone } from 'react-icons/md';
 import { FaUser, FaFolderOpen } from 'react-icons/fa';
@@ -83,7 +83,7 @@ function Navbar() {
             borderRadius: '78.8418px',
             background: theme.secondary,
             color: theme.primary,
-            width: '85%',
+            width: '100%',
             height: '60px',
             display: 'flex',
             alignItems: 'center',
@@ -213,17 +213,17 @@ function Navbar() {
 
                         <Fade left>
                             <NavLink
-                                to='/#resume'
+                                to='/#experience'
                                 smooth={true}
                                 spy='true'
                                 duration={2000}
                             >
                                 <div className={classes.drawerItem}>
-                                    <HiDocumentText
+                                    <HiBriefcase
                                         className={classes.drawerIcon}
                                     />
                                     <span className={classes.drawerLinks}>
-                                        Education
+                                        Experience
                                     </span>
                                 </div>
                             </NavLink>
@@ -231,7 +231,7 @@ function Navbar() {
 
                         <Fade left>
                             <NavLink
-                                to='/#services'
+                                to='/#skills'
                                 smooth={true}
                                 spy='true'
                                 duration={2000}
@@ -242,6 +242,42 @@ function Navbar() {
                                     />
                                     <span className={classes.drawerLinks}>
                                         Skills
+                                    </span>
+                                </div>
+                            </NavLink>
+                        </Fade>
+
+                        <Fade left>
+                            <NavLink
+                                to='/#projects'
+                                smooth={true}
+                                spy='true'
+                                duration={2000}
+                            >
+                                <div className={classes.drawerItem}>
+                                    <HiClipboardCheck
+                                        className={classes.drawerIcon}
+                                    />
+                                    <span className={classes.drawerLinks}>
+                                        Projects
+                                    </span>
+                                </div>
+                            </NavLink>
+                        </Fade>
+
+                        <Fade left>
+                            <NavLink
+                                to='/#resume'
+                                smooth={true}
+                                spy='true'
+                                duration={2000}
+                            >
+                                <div className={classes.drawerItem}>
+                                    <HiAcademicCap
+                                        className={classes.drawerIcon}
+                                    />
+                                    <span className={classes.drawerLinks}>
+                                        Education
                                     </span>
                                 </div>
                             </NavLink>

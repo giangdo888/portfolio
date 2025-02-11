@@ -52,7 +52,9 @@ function ExperienceCard({id, company, jobtitle, startYear, endYear, skills}) {
                 <div className="experience-details">
                     <h6 style={{color: theme.primary}}>{startYear}-{endYear}</h6>
                     <h4 style={{color: theme.tertiary}}>{jobtitle}</h4>
-                    <h5 style={{color: theme.tertiary80}}>{company}</h5>
+                    {company.map(item => (
+                        <h5 style={{color: theme.tertiary80}}>• {item}</h5>
+                    ))}
                     <div className="experience-skills">
                     {skills.map((skill, index) => (
                         <span key={index} className="experience-skill" style={{

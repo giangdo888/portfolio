@@ -5,11 +5,13 @@
     'Qt',
     'PostgreSQL',
     'Docker',
+    'AWS',
     'TypeScript',
+    'JavaScript',
+    'NextJS',
     'React',
     'HTML',
     'CSS',
-    'JavaScript',
     'Git'
 ]
 

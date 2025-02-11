@@ -15,8 +15,8 @@ function Main() {
             <Landing />
             <About />
             <Experience />
-            <Projects />
             <Skills />
+            <Projects />
             <Education />
             <Contacts />
             <Footer />
