@@ -10,6 +10,7 @@ import opswat from '../../assets/png/opswat_logo.jpg'
 import hcl from '../../assets/png/hcltech_logo.jpg'
 import tma from '../../assets/png/1631382132338.jpg'
 import dek from '../../assets/png/dek_technologies_logo.jpg'
+import jung from '../../assets/png/jung_talents_logo.png'
 
 import './Experience.css'
 
@@ -23,6 +24,8 @@ const companyImage = (company) => {
             return tma;
         case 'DEK Technologies (Endava)':
             return dek;
+        case 'Jung Talents':
+            return jung;
     }
 }
 

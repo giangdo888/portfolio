@@ -74,6 +74,7 @@ import unity from '../assets/svg/skills/unity.svg'
 import wolframalpha from '../assets/svg/skills/wolframalpha.svg'
 import dotnet from '../assets/svg/skills/dotnet.png'
 import qt from '../assets/svg/skills/qt.png'
+import vercel from '../assets/svg/skills/Vercel_favicon.svg'
 
 import canva from '../assets/svg/skills/canva.svg'
 
@@ -117,6 +118,8 @@ export const skillsImage = (skill) => {
             return typescript;
         case 'vue':
             return vue;
+        case 'vercel':
+            return vercel;
         case 'bootstrap':
             return bootstrap;
         case 'bulma':

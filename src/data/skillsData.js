@@ -6,12 +6,13 @@
     'PostgreSQL',
     'Docker',
     'AWS',
+    'NextJS',
     'TypeScript',
     'JavaScript',
-    'NextJS',
     'React',
     'HTML',
     'CSS',
+    'Vercel',
     'Git'
 ]
 
