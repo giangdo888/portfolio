@@ -61,6 +61,7 @@
     }
     .navbar--container > h1{
         font-size: 2rem;
+        color: rgb(233, 173, 53) !important;
     }
     .nav-menu:hover{
         color: var(--primary-2);

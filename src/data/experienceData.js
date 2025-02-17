@@ -1,9 +1,14 @@
 export const experienceData = [
     {
         id: 1,
-        company: ['Developed API endpoints using ASP.NET Core for user authentication (Entity Framework Core and LINQ), services, focused on consistency.',
-            'Engaged in the PTE Master project by harnessing Angular.js, ASP .NET, MySQL, and AWS. Primarily focused on elevating search functionalities and refining course recommendation systems, resulting in a more user-friendly and efficient platform.',
-            'Assisted database migration from on-premises to cloud and modified queries on PTE document search to optimize the search feature for PTE Master project.'
+        company: ['Designed, developed, and deployed scalable, high-performance web applications using ASP.NET Core, leveraging its modular architecture by implementing Dependency Injection.',
+            'Experienced with ORM using Entity Framework Core to performe database migrations and manage data access layer, utilized LINQ for querying and manipulating data collections.',
+            'Deployed .NET applications to Azure using various services like App Services, Azure Functions, and Azure DevOps.',
+            'Containerized applications using Docker, improving scalability and deployment efficiency.',
+            'Optimized application performance by implementing caching strategies using Redis and leveraging async/await patterns for asynchronous programming.',
+            'Wrote unit test using xUnit to ensure code reliability and maintainability.',
+            'Integrated authentication and authorization mechanisms using Auth0 to ensure secure access to application resources.',
+            'Integrated Serilog for structured and scalable logging in .NET applications.'
         ],
         jobtitle: 'Jung Talents',
         startYear: '07/2024',
@@ -37,7 +42,7 @@ export const experienceData = [
         jobtitle: 'TMA Solutions',
         startYear: '12/2020',
         endYear: '09/2022',
-        skills: ['C++','Session Initiation Protocol (SIP)', 'PostgreSQL','Linux','Tortoise SVN','Agile/Scrum']
+        skills: ['C++','SIP', 'PostgreSQL','Linux','Tortoise SVN','Agile/Scrum']
     },
     // {
     //     id: 4,
