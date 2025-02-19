@@ -28,7 +28,7 @@ export const projectsData = [
         id: 3,
         projectName: 'To Do List',
         projectDesc: 'Develop a user-friendly to-do app interface for efficient daily task management.',
-        tags: ['ASP.NET', 'React', 'TypeScript', 'SqlServer'],
+        tags: ['ASP.NET', 'NextJS', 'TypeScript', 'PostgreSQL'],
         code: 'https://github.com/giangdo888/ToDoList',
         demo: '',
         image: toDoList

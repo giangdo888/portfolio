@@ -3,7 +3,7 @@ export const experienceData = [
         id: 1,
         company: ['Designed, developed, and deployed scalable, high-performance web applications using ASP.NET Core, leveraging its modular architecture by implementing Dependency Injection.',
             'Experienced with ORM using Entity Framework Core to performe database migrations and manage data access layer, utilized LINQ for querying and manipulating data collections.',
-            'Deployed .NET applications to Azure using various services like App Services, Azure Functions, and Azure DevOps.',
+            'Deployed .NET applications to AWS using services such as EC2, S3, RDS, IAM, CloudFront, and Route 53 for scalable and secure cloud solutions.',
             'Containerized applications using Docker, improving scalability and deployment efficiency.',
             'Optimized application performance by implementing caching strategies using Redis and leveraging async/await patterns for asynchronous programming.',
             'Wrote unit test using xUnit to ensure code reliability and maintainability.',
@@ -13,7 +13,7 @@ export const experienceData = [
         jobtitle: 'Jung Talents',
         startYear: '07/2024',
         endYear: 'present',
-        skills: ['C#','ASP.NET Core', 'EF Core', 'PostgreSQL', 'LINQ','Next.js', 'TypeScript', 'AWS', 'Docker', 'REST APIs','Git']
+        skills: ['C#','ASP.NET Core', 'EF Core', 'PostgreSQL', 'LINQ', 'Next.js', 'TypeScript', 'AWS', 'Docker', 'REST APIs','Git']
     },
     {
         id: 2,
