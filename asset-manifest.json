@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.471068dd.css",
-    "main.js": "/portfolio/static/js/main.4fd47a70.js",
+    "main.js": "/portfolio/static/js/main.3761f7c9.js",
     "static/js/453.1cc257ae.chunk.js": "/portfolio/static/js/453.1cc257ae.chunk.js",
     "static/media/placeholder.png": "/portfolio/static/media/placeholder.3fcbbdcd05f3e458d129.png",
     "static/media/expOrange.svg": "/portfolio/static/media/expOrange.9383b2df918bf4e0ce67e3f289602562.svg",
@@ -15,7 +15,7 @@
     "static/media/fizzbuzz.png": "/portfolio/static/media/fizzbuzz.e803078d419857370dce.png",
     "static/media/quizapp.png": "/portfolio/static/media/quizapp.9e18ad2481c9d78f347c.png",
     "static/media/todolist.png": "/portfolio/static/media/todolist.0101c1a39661b3338ef3.png",
-    "static/media/resume.pdf": "/portfolio/static/media/resume.e2852af5cebc0486dd91.pdf",
+    "static/media/resume.pdf": "/portfolio/static/media/resume.a83e06a852a9685fe9b9.pdf",
     "static/media/two.svg": "/portfolio/static/media/two.721a06723367c73fc2cee44b09f50c67.svg",
     "static/media/BestermindRegular.ttf": "/portfolio/static/media/BestermindRegular.e58a192233afb30a6a59.ttf",
     "static/media/one.svg": "/portfolio/static/media/one.a3146128c9b6ecbd1ffa523e1f3f734d.svg",
@@ -144,11 +144,11 @@
     "static/media/vuetifyjs.svg": "/portfolio/static/media/vuetifyjs.8a22a3ec81ad62e97094feab6e7ee0fb.svg",
     "static/media/bulma.svg": "/portfolio/static/media/bulma.5910d4416e077262d0264109649ab214.svg",
     "main.471068dd.css.map": "/portfolio/static/css/main.471068dd.css.map",
-    "main.4fd47a70.js.map": "/portfolio/static/js/main.4fd47a70.js.map",
+    "main.3761f7c9.js.map": "/portfolio/static/js/main.3761f7c9.js.map",
     "453.1cc257ae.chunk.js.map": "/portfolio/static/js/453.1cc257ae.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.471068dd.css",
-    "static/js/main.4fd47a70.js"
+    "static/js/main.3761f7c9.js"
   ]
 }
